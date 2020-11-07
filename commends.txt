@@ -1,0 +1,7 @@
+npm init - to add packege.json file
+npm i express 
+npm i -g nodemon
+nodemon server.js
+ npm i uuid  
+npm i socket.io    ->to
+npm i peer 
